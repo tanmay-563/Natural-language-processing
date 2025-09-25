@@ -1,6 +1,6 @@
 # Natural-language-processing
 <p align="center">
-  <img src="notebook/reviewscope.png" alt="ReviewScope Banner" width="600"/>
+  <img src="reviewscope.png" alt="ReviewScope Banner" width="600"/>
 </p>
 
 ## 📌 Overview  
@@ -16,16 +16,16 @@ This tool provides businesses and researchers with a way to:
 ## 🖼️ Screenshots  
 
 ### 🔹 Dashboard Overview  
-![Dashboard](./notebook/reviewscope.png)
+![Dashboard](./reviewscope.png)
 
 ### 🔹 Sidebar Customization  
-![Sidebar](./notebook/sidebar_logo.png)
+![Sidebar](./sidebar_logo.png)
 
 ### 🔹 Model Training Notebook  
-![Notebook](./notebook/the_model.png)  
+![Notebook](./the_model.png)  
 
 ### 🔹 Sample Predictions  
-![Predictions](./notebook/sample_predictions.png)  
+![Predictions](./sample_predictions.png)  
 
 ---
 
