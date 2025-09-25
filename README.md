@@ -13,38 +13,6 @@ This tool provides businesses and researchers with a way to:
 
 ---
 
-## 📂 Project Structure  
-
-REVIEW_SCOPE_PROJECT/
-│
-├── data/ # Sample datasets
-│ ├── Reviews.csv
-│ ├── sample.csv
-│ └── vader.csv
-│
-├── notebook/ # Streamlit frontend + experimentation
-│ ├── main.py
-│ ├── reviewscope.png
-│ ├── sidebar_logo.png
-│ └── the_model.ipynb
-│
-├── roberta_model/ # Fine-tuned RoBERTa model artifacts
-│ ├── config.json
-│ ├── merges.txt
-│ ├── pytorch_model.bin
-│ └── vocab.json
-│
-├── venv/ # Virtual environment
-│
-├── .gitattributes
-├── .gitignore
-└── README.md
-
-markdown
-Copy code
-
----
-
 ## 🖼️ Screenshots  
 
 ### 🔹 Dashboard Overview  
