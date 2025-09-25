@@ -66,8 +66,9 @@ The model powering **ReviewScope** is based on **RoBERTa-base**, which was fine-
 ✔️ Interactive visualizations and charts <br>
 ✔️ Fine-tuned RoBERTa transformer model <br>
 ✔️ Simple, intuitive Streamlit dashboard <br>
-
-🛠️ Tech Stack
+ ---
+ 
+## 🛠️ Tech Stack
 Python 🐍
 
 Hugging Face Transformers 🤗
@@ -80,7 +81,9 @@ Pandas / NumPy for preprocessing
 
 Matplotlib / Seaborn for visualizations
 
-📈 Future Improvements
+ ---
+
+## 📈 Future Improvements
 Expand sentiment labels to include aspect-based sentiment analysis (e.g., product quality, delivery, service).
 
 Support for multiple languages.
@@ -89,12 +92,18 @@ Deployment on cloud platforms (AWS / GCP / Azure).
 
 Integration with live review feeds (e.g., Twitter API, e-commerce reviews).
 
-🙌 Acknowledgements
+---
+
+
+## 🙌 Acknowledgements
 Hugging Face Transformers for providing robust NLP models.
 
 PyTorch for deep learning capabilities.
 
 Streamlit for easy web app deployment.
 
-📜 License
+---
+
+
+## 📜 License
 This project is licensed under the MIT License – feel free to use, modify, and share.
